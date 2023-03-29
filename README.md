@@ -1,3 +1,4 @@
+![Header](https://github.com/csnotgo/csnotgo/blob/main/assets/baner.gif)
 <h1 align="center">Hi 👋, I'm Fullstack developer from Ukraine</h1>
 
 <h3 align="left">Connect with me:</h3>
