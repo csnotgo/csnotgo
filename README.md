@@ -3,8 +3,7 @@
 
 <!-- ###################################################################################################################################3 -->
 
-Contact me:
-<div align="left">
+<div align="left" width="200">
   <a href="https://t.me/csnotgo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
@@ -15,8 +14,18 @@ Contact me:
 
 <!-- ###################################################################################################################################3 -->
 
-<!-- <img align="right" height="150" src="https://tenor.com/0H1O.gif"/> -->
-
+  <img height="300" width="300" align="right" src="https://tenor.com/uk/view/angry-typing-office-speed-typing-doggo-gif-12515120.gif"  />
+  
+  <!-- ###################################################################################################################################3 -->
+  
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
 <!-- ###################################################################################################################################3 -->
 
 <div align="center">
@@ -45,6 +54,4 @@ Contact me:
 </div>
 
 <!-- ###################################################################################################################################3 -->
-
-![Snake animation](https://github.com/csnotgo/csnotgo/blob/output/github-contribution-grid-snake.svg)
 
