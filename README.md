@@ -3,7 +3,22 @@
 
 <!-- ###################################################################################################################################3 -->
 
-<div align="left" width="200">
+  <img height="300" width="300" align="right" src="https://tenor.com/uk/view/angry-typing-office-speed-typing-doggo-gif-12515120.gif"  />
+  
+  <!-- ###################################################################################################################################3 -->
+  
+<h3 align="left">Hello World!!</h3>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+
+<!-- ###################################################################################################################################3 -->
+
+<div align="right" width="200">
   <a href="https://t.me/csnotgo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
@@ -12,20 +27,6 @@
   </a>
 </div>
 
-<!-- ###################################################################################################################################3 -->
-
-  <img height="300" width="300" align="right" src="https://tenor.com/uk/view/angry-typing-office-speed-typing-doggo-gif-12515120.gif"  />
-  
-  <!-- ###################################################################################################################################3 -->
-  
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
 <!-- ###################################################################################################################################3 -->
 
 <div align="center">
