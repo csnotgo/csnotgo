@@ -7,18 +7,7 @@
   
   <!-- ###################################################################################################################################3 -->
   
-<h3 align="left">Hello World!!</h3>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-
-<!-- ###################################################################################################################################3 -->
-
-<div align="right" width="200">
+  <div align="left">
   <a href="https://t.me/csnotgo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
@@ -26,10 +15,19 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
+  
+  <!-- ###################################################################################################################################3 -->
+  
+<h3 align="left">Hello World!!</h3>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p><br/>
 
 <!-- ###################################################################################################################################3 -->
 
-<div align="center">
+<div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
@@ -44,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-</div>
+</div><br/>
 
 <!-- ###################################################################################################################################3 -->
 
