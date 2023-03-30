@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/kseniia-skarzhynets" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-</div>
+</div><br/>
   
   <!-- ###################################################################################################################################3 -->
   
@@ -23,7 +23,7 @@
 <p align="left">Hello World!!</p>
 <p align="left">Hello World!!</p>
 <p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p><br/>
+<p align="left">Hello World!!</p>
 
 <!-- ###################################################################################################################################3 -->
 
