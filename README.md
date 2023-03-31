@@ -3,7 +3,7 @@
 
 <!-- ###################################################################################################################################3 -->
 
-  <img height="300" width="300" align="right" src="https://tenor.com/uk/view/angry-typing-office-speed-typing-doggo-gif-12515120.gif"  />
+  <img height="300" width="300" align="right" src="https://tenor.com/uk/view/loading-thinking-shiba-inu-gif-25291442.gif"  />
   
   <!-- ###################################################################################################################################3 -->
   
@@ -14,16 +14,19 @@
   <a href="https://www.linkedin.com/in/kseniia-skarzhynets" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-</div><br/>
+</div>
   
   <!-- ###################################################################################################################################3 -->
   
-<h3 align="left">Hello World!!</h3>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
-<p align="left">Hello World!!</p>
+<h3 align="left">A little about me:</h3>
+<p align="left" width="300">🔰 Successfully completed learning at GoIT Academy. I am currently adding <br/> to my knowledge stack: TS, Vue.js, MySQL.<br/>
+🔰 Although I am a full-stack developer, I am more inspired by creative work <br/>and interesting projects.<br/>
+🔰 Sometimes I look like this shiba from the right🐕<br/>
+🔰 Each developer will agree that more than 80% of the time is spent on <br/>finding errors and troubleshooting🤷‍<br/>
+🔰 But I am attentive to details, so for friends I am like a personal debugger😅<br/>
+</p><br/>
+
+<!-- 🔰 In my free time I like to play video games (The Witcher, Horizon, <br/>Assassin's Creed is my top), so in the future I would like to try myself in game development. -->
 
 <!-- ###################################################################################################################################3 -->
 
