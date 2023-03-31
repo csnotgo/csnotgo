@@ -19,8 +19,8 @@
   <!-- ###################################################################################################################################3 -->
   
 <h3 align="left">A little about me:</h3>
-<p align="left" width="300">🔰 Successfully completed learning at GoIT Academy. I am currently adding <br/> to my knowledge stack: TS, Vue.js, MySQL.<br/>
-🔰 Although I am a full-stack developer, I am more inspired by creative work <br/>and interesting projects.<br/>
+<p align="left" width="300">🔰 Successfully completed education in GoIT Academy. I am currently adding <br/> to my knowledge stacks: TS, Vue.js, MySQL.<br/>
+🔰 Although I am a full-stack developer, I am more inspiring by creative work <br/>and interesting projects.<br/>
 🔰 Sometimes I look like this shiba from the right🐕<br/>
 🔰 Each developer will agree that more than 80% of the time is spent on <br/>finding errors and troubleshooting🤷‍<br/>
 🔰 But I am attentive to details, so for friends I am like a personal debugger😅<br/>
