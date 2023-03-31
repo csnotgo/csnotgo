@@ -24,7 +24,7 @@
 🔰 Sometimes I look like this shiba from the right🐕<br/>
 🔰 Each developer will agree that more than 80% of the time is spent on <br/>finding errors and troubleshooting🤷‍<br/>
 🔰 But I am attentive to details, so for friends I am like a personal debugger😅<br/>
-</p><br/>
+</p><br/><br/>
 
 <!-- 🔰 In my free time I like to play video games (The Witcher, Horizon, <br/>Assassin's Creed is my top), so in the future I would like to try myself in game development. -->
 
